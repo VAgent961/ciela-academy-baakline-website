@@ -1,0 +1,29 @@
+{
+  "siteName": "Ciela Academy Baakline",
+  "description": "Multidisciplinary creative arts, gymnastics, and circus school in Baakline, Chouf.",
+  "lang": "en",
+  "colors": {
+    "primary": "#C85C3A",
+    "secondary": "#E8D5C4",
+    "accent": "#D96B4A",
+    "background": "#FAF8F5",
+    "surface": "#FFFFFF",
+    "ink": "#1A1F2E",
+    "muted": "#6B7280",
+    "dark": "#0F141E"
+  },
+  "fonts": {
+    "heading": "Syne",
+    "body": "Readex Pro"
+  },
+  "extend": {
+    "colors": {},
+    "fontFamily": {},
+    "fontSize": {},
+    "spacing": {},
+    "borderRadius": {},
+    "boxShadow": {}
+  },
+  "extraCss": "",
+  "iconFont": ""
+}

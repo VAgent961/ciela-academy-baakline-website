@@ -1,0 +1,12 @@
+create table if not exists contact_messages (
+  id bigserial primary key,
+  created_at timestamptz not null default now(),
+  name text not null,
+  phone text not null,
+  email text,
+  program text,
+  message text,
+  status text not null default 'new'
+);
+
+create index if not exists contact_messages_created_at_idx on contact_messages (created_at);
