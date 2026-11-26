@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import { Calendar, Clock, Target, MessageCircle } from 'lucide-react';
 import MobileActionBar from '@/components/MobileActionBar';
 
